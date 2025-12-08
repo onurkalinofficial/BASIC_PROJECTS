@@ -1,3 +1,5 @@
+print("---KÖK BULMA ARACINA HOŞ GELDİNİZ---")
+
 a = int(input("a sayısını gir: "))
 b = int(input("b sayısını gir: "))
 c = int(input("c sayısını gir: "))

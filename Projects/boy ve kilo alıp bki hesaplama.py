@@ -1,3 +1,5 @@
+print("---BKI HESAPLAMA ARACINA HOŞ GELDİNİZ---")
+
 boy = float(input("boyunuzu giriniz: "))
 kilo = float(input("kilonuzu giriniz: "))
 

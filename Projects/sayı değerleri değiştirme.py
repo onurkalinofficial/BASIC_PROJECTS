@@ -1,4 +1,5 @@
 print("---HOŞ GELDİNİZ---")
+
 a = int(input("a sayısını gir: "))
 b = int(input("b sayısını gir: "))
 

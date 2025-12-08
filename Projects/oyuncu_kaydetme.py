@@ -1,4 +1,5 @@
 print("Hoş Geldiniz...")
+
 isim = input("isim giriniz: ")
 soyisim = input("soyisim giriniz: ")
 takım = input("takım giriniz: ")

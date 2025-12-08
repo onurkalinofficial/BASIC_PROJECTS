@@ -1,4 +1,5 @@
 print ("---sisteme hoş geldiniz---")
+
 ad = input("isminizi giriniz: ")
 soyad = input("soyadınızı giriniz: ")
 no = int(input("okul numaranızı giriniz: "))
